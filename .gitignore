@@ -1,0 +1,7 @@
+# Configuration files with secrets
+config.js
+*.local.html
+
+# OS files
+.DS_Store
+Thumbs.db
